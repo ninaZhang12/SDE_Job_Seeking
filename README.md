@@ -1,12 +1,7 @@
-# SDE_Job_Seeking
+# PowerBI
 
-This is a study plan/guide I am doing to find a SDE job.
+PowerBI is not directly related to SDE job, but I think it's really useful. I think this should be a basic skill just like Excel and PowerPoint.
 
-## Background
-I am currently pursuing my Master's degree in Computer Engineering, and I'm graduating in December 2024. I have experience in many coding languages, but I haven't done any review or summary on these skills.
+I will work towards Power BI Data Analyst Associate certificate provided by Microsoft, but I probably won't take the exam because I don't want to pay for that haha.
 
-## Approach
-In this study plan, I will list all the skills I have or want to have, and then review or learn it. I hope I can update this repo everyday.
-
-## Goal
-My final goal for this study plan is getting a job as SDE.
+website: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
